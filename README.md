@@ -7,3 +7,5 @@
   - Finished "Second Largest Element in an Array without sorting"
   - Finished "Check if the array is sorted"
   - Finished "Remove duplicates from Sorted array"
+    ![Alt text](Screenshots/LargestElementInTheArray1.png)
+    ![Alt text](Screenshots/LargestElementInTheArray2.png)
