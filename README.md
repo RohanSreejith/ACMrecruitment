@@ -10,8 +10,8 @@
     ![Alt text](Screenshots/SecondLargestElementinanArraywithoutsorting1.png)
     ![Alt text](Screenshots/SecondLargestElementinanArraywithoutsorting2.png)
   - Finished "Check if the array is sorted"
-    ![Alt text]()
-    ![Alt text]()
+    ![Alt text](Screenshots/CheckifanArrayisSorted1.png)
+    ![Alt text](Screenshots/CheckifanArrayisSorted2.png)
   - Finished "Remove duplicates from Sorted array"
     ![Alt text]()
     ![Alt text]()
