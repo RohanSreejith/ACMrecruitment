@@ -7,8 +7,8 @@
     ![Alt text](Screenshots/LargestElementInTheArray1.png)
     ![Alt text](Screenshots/LargestElementInTheArray2.png)
   - Finished "Second Largest Element in an Array without sorting"
-    ![Alt text]()
-    ![Alt text]()
+    ![Alt text](Screenshots/SecondLargestElementinanArraywithoutsorting1.png)
+    ![Alt text](Screenshots/SecondLargestElementinanArraywithoutsorting2.png)
   - Finished "Check if the array is sorted"
     ![Alt text]()
     ![Alt text]()
