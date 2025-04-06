@@ -19,7 +19,7 @@
   - Finished "Move Zeros to end"
     ![Alt text](Screenshots/MoveallZerostotheendofthearray.png)
   - Finished "Linear Search"
-    ![Alt text]()
+    ![Alt text](Screenshots/LinearSearch.png)
   - Finished "Find the Union"
     ![Alt text]()
 
