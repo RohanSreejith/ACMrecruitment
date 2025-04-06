@@ -13,5 +13,5 @@
     ![Alt text](Screenshots/CheckifanArrayisSorted1.png)
     ![Alt text](Screenshots/CheckifanArrayisSorted2.png)
   - Finished "Remove duplicates from Sorted array"
-    ![Alt text]()
-    ![Alt text]()
+    ![Alt text](Screenshots/RemoveduplicatesfromSortedarray1.png)
+    ![Alt text](Screenshots/RemoveduplicatesfromSortedarray2.png)
