@@ -22,4 +22,14 @@
     ![Alt text](Screenshots/LinearSearch.png)
   - Finished "Find the Union"
     ![Alt text](Screenshots/UnionofTwoSortedArrays.png)
-
+### Day 3 (03-04-2025):
+  - Finished "Find missing number in an array"
+    ![Alt text](Screenshots/Findmissingnumberinanarray.png)
+  - Finished "Maximum Consecutive Ones"
+    ![Alt text](Screenshots/MaximumConsecutiveOnes.png)
+  - Finished "Find the number that appears once, and other numbers twice."
+    ![Alt text](Screenshots/Findthenumberthatappearsonceandothernumberstwice.png)
+  - Finished "Longest subarray with given sum K(positives)"
+    ![Alt text](Screenshots/LongestsubarraywithgivensumK(positives).png)
+  - Finished "Longest subarray with sum K (Positives + Negatives)"
+    ![Alt text](Screenshots/LongestsubarraywithsumK(Positives+Negatives).png)
