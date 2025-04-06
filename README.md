@@ -13,7 +13,7 @@
     ![Alt text](Screenshots/RemoveduplicatesfromSortedarray.png)
 ### Day 2 (02-04-2025):
   - Finished "Left Rotate an array by one place"
-    ![Alt text](Screenshots/LeftRotateanarraybyoneplace.png)
+    ![Alt text](Screenshots/LeftRotatetheArraybyOne.png)
   - Finished "Left rotate an array by D places"
     ![Alt text]()
   - Finished "Move Zeros to end"
