@@ -17,7 +17,7 @@
   - Finished "Left rotate an array by D places"
     ![Alt text](Screenshots/LeftrotateanarraybyDplaces.png)
   - Finished "Move Zeros to end"
-    ![Alt text]()
+    ![Alt text](Screenshots/MoveallZerostotheendofthearray.png)
   - Finished "Linear Search"
     ![Alt text]()
   - Finished "Find the Union"
