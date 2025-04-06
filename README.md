@@ -15,7 +15,7 @@
   - Finished "Left Rotate an array by one place"
     ![Alt text](Screenshots/LeftRotatetheArraybyOne.png)
   - Finished "Left rotate an array by D places"
-    ![Alt text]()
+    ![Alt text](Screenshots/LeftrotateanarraybyDplaces.png)
   - Finished "Move Zeros to end"
     ![Alt text]()
   - Finished "Linear Search"
