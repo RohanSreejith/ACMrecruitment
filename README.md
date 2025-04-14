@@ -57,11 +57,11 @@
   - Reviced Algorithms
   - Revised Evaluation Matrics
   - Implementing Linear Regression
-      -Code: ![Alt text](Screenshots/LongestsubarraywithsumK(Positives+Negatives).png)
-      -Output: ![Alt text](Screenshots/LongestsubarraywithsumK(Positives+Negatives).png)
+      - Code: ![Alt text](Screenshots/LongestsubarraywithsumK(Positives+Negatives).png)
+      - Output: ![Alt text](Screenshots/LongestsubarraywithsumK(Positives+Negatives).png)
   - Implementing Gradient Descent
-      -Code: ![Alt text](Screenshots/LongestsubarraywithsumK(Positives+Negatives).png)
-      -Output: ![Alt text](Screenshots/LongestsubarraywithsumK(Positives+Negatives).png)
+      - Code: ![Alt text](Screenshots/LongestsubarraywithsumK(Positives+Negatives).png)
+      - Output: ![Alt text](Screenshots/LongestsubarraywithsumK(Positives+Negatives).png)
   - Implementing K-Means Algorithm
-      -Code: ![Alt text](Screenshots/LongestsubarraywithsumK(Positives+Negatives).png)
-      -Output: ![Alt text](Screenshots/LongestsubarraywithsumK(Positives+Negatives).png)
+      - Code: ![Alt text](Screenshots/LongestsubarraywithsumK(Positives+Negatives).png)
+      - Output: ![Alt text](Screenshots/LongestsubarraywithsumK(Positives+Negatives).png)
