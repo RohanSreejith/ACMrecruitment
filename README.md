@@ -65,3 +65,39 @@
   - Implementing K-Means Algorithm
       - Code: ![Alt text](Screenshots/kmeans_code.png)
       - Output: ![Alt text](Screenshots/kmeans_output.png)
+  ### Day 7 (07-05-2025):
+  - Started with Striver's A2Z sheet (Array - medium)
+  - Finished "2Sum Problem"
+    ![Alt text](Screenshots/2SumProblem.png)
+  - Finished "Sort an array of 0's 1's and 2's"
+    ![Alt text](Screenshots/Sortanarrayof0s1sand2s.png)
+  - Finished "Find the number that appears once, and other numbers twice."
+    ![Alt text](Screenshots/Findthenumberthatappearsonceandothernumberstwice.png)
+  - Finished "Majority Element (>n/2 times)"
+    ![Alt text](Screenshots/MajorityElement(n2times).png)
+  - Finished "Kadane's Algorithm, maximum subarray sum"
+    ![Alt text](Screenshots/KadanesAlgorithmmaximumsubarraysum.png)
+### Day 8 (08-05-2025):
+  - Started with Striver's A2Z sheet (Array - medium)
+  - Finished "Find missing number in an array"
+    ![Alt text](Screenshots/Findmissingnumberinanarray.png)
+  - Finished "Maximum Consecutive Ones"
+    ![Alt text](Screenshots/MaximumConsecutiveOnes.png)
+  - Finished "Find the number that appears once, and other numbers twice."
+    ![Alt text](Screenshots/Findthenumberthatappearsonceandothernumberstwice.png)
+  - Finished "Longest subarray with given sum K(positives)"
+    ![Alt text](Screenshots/LongestsubarraywithgivensumK(positives).png)
+  - Finished "Longest subarray with sum K (Positives + Negatives)"
+    ![Alt text](Screenshots/LongestsubarraywithsumK(Positives+Negatives).png)
+### Day 9 (09-05-2025):
+  - Started with Striver's A2Z sheet (Array - medium)
+  - Finished "Find missing number in an array"
+    ![Alt text](Screenshots/Findmissingnumberinanarray.png)
+  - Finished "Maximum Consecutive Ones"
+    ![Alt text](Screenshots/MaximumConsecutiveOnes.png)
+  - Finished "Find the number that appears once, and other numbers twice."
+    ![Alt text](Screenshots/Findthenumberthatappearsonceandothernumberstwice.png)
+  - Finished "Longest subarray with given sum K(positives)"
+    ![Alt text](Screenshots/LongestsubarraywithgivensumK(positives).png)
+  - Finished "Longest subarray with sum K (Positives + Negatives)"
+    ![Alt text](Screenshots/LongestsubarraywithsumK(Positives+Negatives).png)
