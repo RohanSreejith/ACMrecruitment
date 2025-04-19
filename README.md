@@ -88,7 +88,7 @@
   - Finished "Leaders in an Array problem"
     ![Alt text](Screenshots/LeadersinanArrayproblem.png)
 ### Day 9 (09-05-2025):
-  - Continued with Striver's A2Z sheet (Array - medium)
+  - Finished with Striver's A2Z sheet (Array - medium)
   - Finished "Longest Consecutive Sequence in an Array"
     ![Need premium for both TUF and Leetcode to unlock this problem](Screenshots/"LongestConsecutiveSequenceinanArray.png)
   - Finished "Set Matrix Zeros"
