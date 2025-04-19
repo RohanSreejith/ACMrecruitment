@@ -71,8 +71,6 @@
     ![Alt text](Screenshots/2SumProblem.png)
   - Finished "Sort an array of 0's 1's and 2's"
     ![Alt text](Screenshots/Sortanarrayof0s1sand2s.png)
-  - Finished "Find the number that appears once, and other numbers twice."
-    ![Alt text](Screenshots/Findthenumberthatappearsonceandothernumberstwice.png)
   - Finished "Majority Element (>n/2 times)"
     ![Alt text](Screenshots/MajorityElement(n2times).png)
   - Finished "Kadane's Algorithm, maximum subarray sum"
