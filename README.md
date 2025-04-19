@@ -76,26 +76,26 @@
   - Finished "Kadane's Algorithm, maximum subarray sum"
     ![Alt text](Screenshots/KadanesAlgorithmmaximumsubarraysum.png)
 ### Day 8 (08-05-2025):
-  - Started with Striver's A2Z sheet (Array - medium)
-  - Finished "Find missing number in an array"
-    ![Alt text](Screenshots/Findmissingnumberinanarray.png)
-  - Finished "Maximum Consecutive Ones"
-    ![Alt text](Screenshots/MaximumConsecutiveOnes.png)
-  - Finished "Find the number that appears once, and other numbers twice."
-    ![Alt text](Screenshots/Findthenumberthatappearsonceandothernumberstwice.png)
-  - Finished "Longest subarray with given sum K(positives)"
-    ![Alt text](Screenshots/LongestsubarraywithgivensumK(positives).png)
-  - Finished "Longest subarray with sum K (Positives + Negatives)"
-    ![Alt text](Screenshots/LongestsubarraywithsumK(Positives+Negatives).png)
+  - Continued with Striver's A2Z sheet (Array - medium)
+  - Finished "Printsubarraywithmaximumsubarraysum(extendedversionofaboveproblem)"
+    ![Alt text](Screenshots/Printsubarraywithmaximumsubarraysum(extendedversionofaboveproblem).png)
+  - Finished "Stock Buy and Sell"
+    ![Alt text](Screenshots/StockBuyandSell.png)
+  - Finished "Rearrangethearrayinalternatingpositiveandnegativeitems"
+    ![Alt text](Screenshots/Rearrangethearrayinalternatingpositiveandnegativeitems.png)
+  - Finished "Next Permutation"
+    ![Alt text](Screenshots/NextPermutation.png)
+  - Finished "Leaders in an Array problem"
+    ![Alt text](Screenshots/LeadersinanArrayproblem.png)
 ### Day 9 (09-05-2025):
-  - Started with Striver's A2Z sheet (Array - medium)
-  - Finished "Find missing number in an array"
-    ![Alt text](Screenshots/Findmissingnumberinanarray.png)
-  - Finished "Maximum Consecutive Ones"
-    ![Alt text](Screenshots/MaximumConsecutiveOnes.png)
-  - Finished "Find the number that appears once, and other numbers twice."
-    ![Alt text](Screenshots/Findthenumberthatappearsonceandothernumberstwice.png)
-  - Finished "Longest subarray with given sum K(positives)"
-    ![Alt text](Screenshots/LongestsubarraywithgivensumK(positives).png)
-  - Finished "Longest subarray with sum K (Positives + Negatives)"
-    ![Alt text](Screenshots/LongestsubarraywithsumK(Positives+Negatives).png)
+  - Continued with Striver's A2Z sheet (Array - medium)
+  - Finished "Longest Consecutive Sequence in an Array"
+    ![Need premium for both TUF and Leetcode to unlock this problem](Screenshots/"LongestConsecutiveSequenceinanArray.png)
+  - Finished "Set Matrix Zeros"
+    ![Alt text](Screenshots/SetMatrixZeros.png)
+  - Finished "Rotate Matrix by 90 degrees"
+    ![Alt text](Screenshots/RotateMatrixby90degrees.png)
+  - Finished "Print the matrix in spiral manner"
+    ![Alt text](Screenshots/Printthematrixinspiralmanner.png)
+  - Finished "Count subarrays with given sum"
+    ![Alt text](Screenshots/Countsubarrayswithgivensum.png)
