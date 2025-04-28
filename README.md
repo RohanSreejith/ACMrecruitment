@@ -108,5 +108,5 @@
       - Code: ![Alt text](Screenshots/Algorithms.png)
       - Output: ![Alt text](Screenshots/AlgorithmsOutput.png)
   - Implementing Hyperparameter Tuning
-      - Code: ![Alt text](Screenshots/HyperperameterTuning.png)
-      - Output: ![Alt text](Screenshots/HyperperameterTuningOutput.png)
+      - Code: ![Alt text](Screenshots/HyperparameterTuning.png)
+      - Output: ![Alt text](Screenshots/HyperparameterTuningOutput.png)
