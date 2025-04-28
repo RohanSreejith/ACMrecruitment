@@ -93,7 +93,7 @@
     ![Need premium for both TUF and Leetcode to unlock this problem](Screenshots/"LongestConsecutiveSequenceinanArray.png)
   - Finished "Set Matrix Zeros"
     ![Alt text](Screenshots/SetMatrixZeros.png)
-### Day10 (10-04-2025):
+### Day 10 (10-04-2025):
   - Implementing Preprocessing
       - Code: ![Alt text](Screenshots/DataProcessing.png)
       - Output: ![Alt text](Screenshots/DataProcessingOutput.png)
@@ -103,10 +103,14 @@
   - Implementing Feature Engineering
       - Code: ![Alt text](Screenshots/FeatureEngineering.png)
       - Output: ![Alt text](Screenshots/FeatureEngineeringOutput.png)
-### Day11 (11-04-2025):
+### Day 11 (11-04-2025):
   - Implementing Algorithms
       - Code: ![Alt text](Screenshots/Algorithms.png)
       - Output: ![Alt text](Screenshots/AlgorithmsOutput.png)
   - Implementing Hyperparameter Tuning
       - Code: ![Alt text](Screenshots/HyperparameterTuning.png)
       - Output: ![Alt text](Screenshots/HyperparameterTuningOutput.png)
+### Day 12 (12-04-2025):
+  - Implementing Algorithms
+      - Code: ![Alt text](Screenshots/Algorithms2.png)
+      - Output: ![Alt text](Screenshots/Algorithms2Output.png)
