@@ -93,9 +93,13 @@
     ![Need premium for both TUF and Leetcode to unlock this problem](Screenshots/"LongestConsecutiveSequenceinanArray.png)
   - Finished "Set Matrix Zeros"
     ![Alt text](Screenshots/SetMatrixZeros.png)
-  - Finished "Rotate Matrix by 90 degrees"
-    ![Alt text](Screenshots/RotateMatrixby90degrees.png)
-  - Finished "Print the matrix in spiral manner"
-    ![Alt text](Screenshots/Printthematrixinspiralmanner.png)
-  - Finished "Count subarrays with given sum"
-    ![Alt text](Screenshots/Countsubarrayswithgivensum.png)
+### Day10 (10-04-2025):
+  - Implementing Preprocessing
+      - Code: ![Alt text](Screenshots/DataProcessing.png)
+      - Output: ![Alt text](Screenshots/DataProcessingOutput.png)
+  - Implementing EDA
+      - Code: ![Alt text](Screenshots/EDA.png)
+      - Output: ![Alt text](Screenshots/EDAOutput.png)
+  - Implementing Feature Engineering
+      - Code: ![Alt text](Screenshots/FeatureEngineering.png)
+      - Output: ![Alt text](Screenshots/FeatureEngineeringOutput.png)
