@@ -95,8 +95,8 @@
     ![Alt text](Screenshots/SetMatrixZeros.png)
 ### Day10 (10-04-2025):
   - Implementing Preprocessing
-      - Code: ![Alt text](Screenshots/DataProcessing.png)
-      - Output: ![Alt text](Screenshots/DataProcessingOutput.png)
+      - Code: ![Alt text](Screenshots/Datarocessing.png)
+      - Output: ![Alt text](Screenshots/DatProcessingOutput.png)
   - Implementing EDA
       - Code: ![Alt text](Screenshots/EDA.png)
       - Output: ![Alt text](Screenshots/EDAOutput.png)
