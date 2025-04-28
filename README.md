@@ -106,10 +106,7 @@
 ### Day11 (11-04-2025):
   - Implementing Algorithms
       - Code: ![Alt text](Screenshots/Algorithms.png)
-      - Output (Decision Trees): ![Alt text](Screenshots/DecisionTressOutput.png)
-      - Output (SVM): ![Alt text](Screenshots/SVMOutput.png)
-      - Output (Random Forest): ![Alt text](Screenshots/RandomForestOutput.png)
-      - Output (XGBoost): ![Alt text](Screenshots/SGBoostOutput.png)
+      - Output: ![Alt text](Screenshots/AlgorithmsOutput.png)
   - Implementing Hyperparameter Tuning
       - Code: ![Alt text](Screenshots/HyperperameterTuning.png)
       - Output: ![Alt text](Screenshots/HyperperameterTuningOutput.png)
