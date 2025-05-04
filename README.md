@@ -114,3 +114,21 @@
   - Implementing Algorithms
       - Code: ![Alt text](Screenshots/Algorithms2.png)
       - Output: ![Alt text](Screenshots/Algorithms2Output.png)
+### Day 13 (13-04-2025):
+  - Implementing AI PULSE X repo
+### Day 14 (14-04-2025):
+  - Implementing AI PULSE X repo
+  - Started ML project - emotion detector
+### Day 15 (15-04-2025):
+  - Implementing AI PULSE X repo
+  - Started ML project - emotion detector
+### Day 16 (16-04-2025):
+  - Continue ML project - emotion detector
+### Day 17 (17-04-2025):
+  - Continue ML project - emotion detector
+### Day 18 (18-04-2025):
+  - Finished ML project - emotion detector
+### Day 20 (20-04-2025):
+  - Started chatbot
+### Day 21 (21-04-2025):
+  - Finished chatbot
